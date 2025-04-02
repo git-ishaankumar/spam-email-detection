@@ -9,12 +9,12 @@ Command-line-interface for detecting if an email is spam or ham.
 ### app.py
 Graphical-user-interface for detecting if an email is spam or ham using Flask.
 ## Usage
-``
+```
 git clone https://github.com/git-ishaankumar/spam-email-detection.git
-``
-``
+```
+```
 cd spam-email-detection
-``
-``
+```
+```
 pip install -r requirements.txt
-``
+```
